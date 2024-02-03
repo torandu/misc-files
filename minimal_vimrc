@@ -1,0 +1,15 @@
+filetype plugin indent on
+syntax on
+
+set backspace=start,eol,indent
+set hidden
+set noswapfile
+
+set path=.,**
+
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+set autoindent
+set smartindent
